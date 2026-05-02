@@ -33,4 +33,26 @@ Performed manual QA testing across multiple user accounts on a practice e-commer
 
 ---
 
+## Project 2: DummyJSON REST API — API Testing
+
+**Base URL:** https://dummyjson.com  
+**Testing Type:** Manual API Testing  
+**Tool Used:** Postman  
+**Date Tested:** April 2026  
+
+### Summary
+Performed manual API testing across 7 endpoints covering GET, POST, PUT, and DELETE request methods. Validated status codes, response bodies, and documented expected vs actual behavior.
+
+### Test Results
+| Result | Count |
+|--------|-------|
+| Passed | 7 |
+| Failed | 0 |
+| **Total** | **7** |
+
+### Files
+- `API_TEST_REPORT.xlsx` — Full API test report including method, endpoint, request body, expected vs actual status, response time, and notes
+
+---
+
 *More projects coming soon.*
