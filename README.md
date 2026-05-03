@@ -59,7 +59,7 @@ Performed manual API testing across 7 endpoints covering GET, POST, PUT, and DEL
 
 - **Postman API Test Automation Badge** — Issued April 19, 2026  
   Verified by Parchment Digital Badges  
-  [View Verified Badge](https://badges.parchment.com/public/assertions/dUvYJ4idTRCGs1q41WcgNQ)
+  [View Verified Badge]https://badges.parchment.com/public/assertions/dUvYJ4idTRCFs1q41WcgNQ
 
 ---
 
