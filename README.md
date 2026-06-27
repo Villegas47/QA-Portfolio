@@ -55,6 +55,34 @@ Performed manual API testing across 7 endpoints covering GET, POST, PUT, and DEL
 
 ---
 
+## Project 3: SauceDemo — UI Test Automation
+
+**Site Tested:** https://www.saucedemo.com
+**Testing Type:** Automated — UI / End-to-End
+**Tools Used:** Playwright, Python, pytest
+**Date:** June 2026
+
+**Repo:** [github.com/Villegas47/saucedemo-automation](https://github.com/Villegas47/saucedemo-automation)
+
+### Summary
+
+Converted my manual SauceDemo test cases (Project 1) into an automated UI test suite — demonstrating the transition from manual QA to test automation. Seven automated tests cover login, cart, checkout, and product-sorting flows, each ending in an explicit assertion and using stable `data-test` selectors.
+
+### Coverage
+
+| # | Test | Verifies |
+|---|------|----------|
+| 1–3 | Login | Valid, invalid, and locked-out scenarios |
+| 4–5 | Cart | Adding and removing items updates the cart badge |
+| 6 | Checkout (E2E) | Full purchase reaches order confirmation |
+| 7 | Sorting | Product list reorders correctly |
+
+### Files
+
+- Full suite in the linked repo, with a README and passing-test output
+
+---
+
 ## Certifications
 
 - **Postman API Test Automation Badge** — Issued April 19, 2026
